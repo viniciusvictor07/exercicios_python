@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 elenco = {}
 
 for i in range(0,2):
@@ -30,5 +31,6 @@ def relatorio_financeiro(dados_time):
     print()
     print(f'Folha salarial de todos os jogadores: R$ {soma:.2f}')
     print(f'Jogador mais caro: {maior_j} (R$ {maior_s:.2f})')
+
 
 relatorio_financeiro(elenco)
