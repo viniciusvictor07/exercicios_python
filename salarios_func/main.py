@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 elenco = {}
 
 for i in range(0,2):
