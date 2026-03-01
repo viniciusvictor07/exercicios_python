@@ -1,0 +1,1 @@
+print(f"Nome: {j['nome']:<20} | Gols: {j['gols']:>3} | Assistências: {j['assist']:>3}")
